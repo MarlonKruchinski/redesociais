@@ -14,7 +14,7 @@ body{
     height: 100vh;
     margin: 0;
 }
-header{
+header{<script type="module" src="informacoesGlobais/informacoesGlobais.js"></script>
     background-color: var(--primary-color);
     text-align: center;
     padding: 1px;
